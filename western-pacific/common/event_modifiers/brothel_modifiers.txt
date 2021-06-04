@@ -1,3 +1,0 @@
-visited_brothel = { icon = 1 }
-
-bedded_washerwoman = { icon = 1 }
